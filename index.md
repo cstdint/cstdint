@@ -11,6 +11,9 @@
         <p>
             Абзац №3 ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт тттт тттт тттт тттт тттт ттт ggg
         </p>
+		<p>
+			<a href = "https://github.com/cstdint/VSCodeTest001/blob/main/VSCodeTest001.html">Тестовая ссылка</a>
+		</p>
 
         <script defer src = "VSCodeTest001.js"></script>
     </body>
