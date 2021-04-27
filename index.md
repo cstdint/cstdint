@@ -8,5 +8,3 @@
 	<li><a href = "./sapper/sapper.html">Игра «Сапёр»</a></li>
 	<li><a href = "./snake/snake.html">Игра «Змейка»</a></li>
 </ul>
-
-<script defer src = "main.js"></script>
