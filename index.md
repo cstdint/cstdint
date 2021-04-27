@@ -1,20 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html lang = "ru">
     <head>
         <meta charset = "utf-8">
-        <link rel = "stylesheet" type = "text/css" href = "VSCodeTest001.css">
-        <title>Тест Visual Studio Code</title>
+        <link rel = "stylesheet" type = "text/css" href = "main.css">
+        <title>Примеры проектов</title>
     </head>
     <body>
-        <p>Абзац №1</p>
-        <p>Абзац №2</p>
-        <p>
-            Абзац №3 ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт ттт тттт тттт тттт тттт тттт ттт ggg
-        </p>
-		<p>
-			<a href = "https://github.com/cstdint/VSCodeTest001/blob/main/VSCodeTest001.html">Тестовая ссылка</a>
-		</p>
+		<h3>Примеры проектов</h3>
+        <ul>
+			<li><a href = "./Canny_edge_detector/canny_edge_detector.html">Детектор границ Кэнни</a></li>
+			<li><a href = "./canvas_background_grid/canvas_background_grid.html">Построение фоновой сетки с использованием canvas</a></li>
+			<li><a href = "./cut_rot_image/cut_rot_image.html">Вращение изображения с сохранением пропорций и обрезкой</a></li>
+			<li><a href = "./document_search/document_search.html">Поиск и выделение текста на HTML-странице</a></li>
+			<li><a href = "./pythagoras_tree_002/pythagoras_tree.html">Построение интерактивного дерева Пифагора</a></li>
+			<li><a href = "./sapper/sapper.html">Игра «Сапёр»</a></li>
+			<li><a href = "./snake/snake.html">Игра «Змейка»</a></li>
+		</ul>
 
-        <script defer src = "VSCodeTest001.js"></script>
+        <script defer src = "main.js"></script>
     </body>
 </html>
