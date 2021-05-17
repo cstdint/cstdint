@@ -8,3 +8,8 @@
 	<li><a href = "./sapper/sapper.html">Игра «Сапёр»</a></li>
 	<li><a href = "./snake/snake.html">Игра «Змейка»</a></li>
 </ul>
+
+<p>Excel 2010 + VBA</p>
+<ul>
+	<li><a href = "game_of_life.xlsm">Игра Джона Конвея «Жизнь»</a></li>
+</ul>
